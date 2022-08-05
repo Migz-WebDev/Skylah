@@ -1,0 +1,30 @@
+
+body {
+  background-color: #C9BBCF;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #898AA6;
+  border-width: 10px;
+  height: 0px;
+  width: 5%;
+}
+
+h1 {
+  color: #898AA6;
+  font-family: Arial;
+}
+
+h3 {
+  color: #898AA6;
+  font-family: Arial;
+}
+
+p {
+  font-family: Arial;
+}
+
+table {
+  font-family: Arial;
+  text-align: center;
+}
